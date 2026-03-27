@@ -1,1 +1,20 @@
-/* Add Global styles here */
+body {
+    background-color:#dbbc93
+}
+h1 {
+    color:white
+}
+p {
+    color:white
+}
+.custom-list li::marker {
+  color: white;
+  font-size: 16px;
+}
+
+.custom-list li {
+  color: white;
+}
+img {
+    
+}

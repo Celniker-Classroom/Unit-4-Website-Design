@@ -18,3 +18,36 @@ p {
 img {
     
 }
+h3 {
+    color:white
+}
+.navbar ul{
+  list-style-type: none;
+  background-color: white;
+  padding: 0px;
+  margin: -8px;
+  overflow: hidden;
+}
+.navbar a{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+.navbar a:hover{
+  background-color: rgba(204, 204, 204, 0.856);
+}
+.navbar li{
+  float: left;
+}
+h2{
+  color: white;
+}
+table, th, td{
+  color: white;
+  border-collapse: collapse;
+}
+a{
+  color: white
+}

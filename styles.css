@@ -51,3 +51,15 @@ table, th, td{
 a{
   color: white
 }
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #dbbc93;
+  padding: 10px;
+}
+.container div {
+  background-color: #dbbc93;
+  
+  padding: 10px;
+  font-size: 30px;
+  text-align: center;
